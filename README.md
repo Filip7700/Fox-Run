@@ -1,4 +1,4 @@
-#Fox Run - Self Thaught AI
+# Fox Run - Self Thaught AI
 
 Fox Run is a game demo which uses AI to teach itself how to 
 get as many points as possible in game by using method of 
