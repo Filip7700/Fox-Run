@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 68b9435ff8a2bf4408919d146b6a42de
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Cube
+    100004: //RootNode
+    100006: Front_Left_Foot
+    100008: Front_Left_Foot_end
+    100010: Front_Left_Foot_IK
+    100012: Front_Left_Foot_IK_end
+    100014: Front_Left_Leg_1
+    100016: Front_Left_Leg_2
+    100018: Front_Right_Foot
+    100020: Front_Right_Foot_end
+    100022: Front_Right_Foot_IK
+    100024: Front_Right_Foot_IK_end
+    100026: Front_Right_Leg_1
+    100028: Front_Right_Leg_2
+    100030: Front_Spine
+    100032: Head
+    100034: Head_end
+    100036: Neck_Spine
+    100038: Pivot
+    100040: Rear_Left_Foot
+    100042: Rear_Left_Foot_end
+    100044: Rear_Left_Foot_IK
+    100046: Rear_Left_Foot_IK_end
+    100048: Rear_Left_Leg_1
+    100050: Rear_Left_Leg_2
+    100052: Rear_Right_Foot
+    100054: Rear_Right_Foot_end
+    100056: Rear_Right_Foot_IK
+    100058: Rear_Right_Foot_IK_end
+    100060: Rear_Right_Leg_1
+    100062: Rear_Right_Leg_2
+    100064: Rear_Spine
+    100066: Tail_1
+    100068: Tail_2
+    100070: Tail_2_end
+    400000: Armature
+    400002: Cube
+    400004: //RootNode
+    400006: Front_Left_Foot
+    400008: Front_Left_Foot_end
+    400010: Front_Left_Foot_IK
+    400012: Front_Left_Foot_IK_end
+    400014: Front_Left_Leg_1
+    400016: Front_Left_Leg_2
+    400018: Front_Right_Foot
+    400020: Front_Right_Foot_end
+    400022: Front_Right_Foot_IK
+    400024: Front_Right_Foot_IK_end
+    400026: Front_Right_Leg_1
+    400028: Front_Right_Leg_2
+    400030: Front_Spine
+    400032: Head
+    400034: Head_end
+    400036: Neck_Spine
+    400038: Pivot
+    400040: Rear_Left_Foot
+    400042: Rear_Left_Foot_end
+    400044: Rear_Left_Foot_IK
+    400046: Rear_Left_Foot_IK_end
+    400048: Rear_Left_Leg_1
+    400050: Rear_Left_Leg_2
+    400052: Rear_Right_Foot
+    400054: Rear_Right_Foot_end
+    400056: Rear_Right_Foot_IK
+    400058: Rear_Right_Foot_IK_end
+    400060: Rear_Right_Leg_1
+    400062: Rear_Right_Leg_2
+    400064: Rear_Spine
+    400066: Tail_1
+    400068: Tail_2
+    400070: Tail_2_end
+    2100000: Fur_Orange
+    2100002: Fur_Cream
+    2100004: Fur_Black
+    4300000: Cube
+    7400000: Armature|Run
+    9500000: //RootNode
+    13700000: Cube
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Run
+      takeName: Armature|Run
+      firstFrame: 1
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
